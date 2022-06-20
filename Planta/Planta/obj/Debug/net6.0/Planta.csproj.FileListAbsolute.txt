@@ -1,0 +1,5 @@
+C:\Users\chiri\source\repos\Planta\Planta\obj\Debug\net6.0\Planta.csproj.AssemblyReference.cache
+C:\Users\chiri\source\repos\Planta\Planta\obj\Debug\net6.0\Planta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiri\source\repos\Planta\Planta\obj\Debug\net6.0\Planta.AssemblyInfoInputs.cache
+C:\Users\chiri\source\repos\Planta\Planta\obj\Debug\net6.0\Planta.AssemblyInfo.cs
+C:\Users\chiri\source\repos\Planta\Planta\obj\Debug\net6.0\Planta.csproj.CoreCompileInputs.cache
